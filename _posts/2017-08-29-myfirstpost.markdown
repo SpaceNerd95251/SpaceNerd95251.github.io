@@ -6,8 +6,3 @@ categories: my firstpost
 ---
 
 wowie i can post i think
-<html>
- 
-   <iframe id="game" src="http://surviv.io" width="500" height="500"> </iframe>
-
-  </html>
