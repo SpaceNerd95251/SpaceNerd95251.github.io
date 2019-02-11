@@ -6,3 +6,7 @@ categories: my firstpost
 ---
 
 wowie i can post i think
+<body>
+  <p>test</p>
+  </body>
+  
