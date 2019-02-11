@@ -9,5 +9,6 @@ wowie i can post i think
 <html>
   <body>
      <iframe id="game" src="http://surviv.io"></iframe>
+    <a href="#" id="fullScreenOn" class="btn btn-block btn-secondary">Play Wide Screen <img src="/images/fullscreen.svg" class="full-icon" width="13" height="13" alt=""></a>
   </body>
   </html>
