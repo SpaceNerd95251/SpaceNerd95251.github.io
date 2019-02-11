@@ -7,7 +7,7 @@ categories: my firstpost
 
 wowie i can post i think
 <html>
-  <body>
+ 
    <iframe id="game" src="http://surviv.io"></iframe>
-  </body>
+
   </html>
