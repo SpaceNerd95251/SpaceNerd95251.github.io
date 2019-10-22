@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just a test website intentionally cringy
+about.null
