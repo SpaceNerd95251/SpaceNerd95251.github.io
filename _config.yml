@@ -7,13 +7,13 @@
 
 # Site settings
 title: Test Title
-email: your-email@domain.com
+email: BreadEnjoyer@duck.com
 description: > # this means to ignore newlines until "baseurl:"
   Test description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  trevor95251
+github_username:  SpaceNerd95251
 
 # Build settings
 markdown: kramdown
